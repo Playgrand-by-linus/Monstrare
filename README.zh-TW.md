@@ -105,7 +105,7 @@ tools/kanban/                 # 實作 ai/process/kanban.md 的本地看板
 **要開新專案？** 直接把這個 repo clone 下來，在裡面直接開發——`AGENTS.md`、`CLAUDE.md` 與整套 `ai/` 工具已經在根目錄了。
 
 ```bash
-git clone https://github.com/pjwang2022/Monstrare.git my-project
+git clone https://github.com/Playgrand-by-linus/Monstrare.git my-project
 cd my-project
 rm -rf .git && git init   # 建立你自己的 git 歷史
 ```

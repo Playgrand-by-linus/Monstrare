@@ -127,7 +127,7 @@ tools/kanban/                 # Local Kanban board implementing ai/process/kanba
 `AGENTS.md`, `CLAUDE.md`, and the whole `ai/` toolkit are already at the root.
 
 ```bash
-git clone https://github.com/pjwang2022/Monstrare.git my-project
+git clone https://github.com/Playgrand-by-linus/Monstrare.git my-project
 cd my-project
 rm -rf .git && git init   # start your own history
 ```
